@@ -51,6 +51,7 @@ Hello, I'm Jordi, a dedicated mobile/TV developer with a focus on Android and iO
 ![Magisk Badge](https://img.shields.io/badge/Magisk-00AF9C?logo=magisk&logoColor=fff&style=for-the-badge)
 ![CocoaPods Badge](https://img.shields.io/badge/CocoaPods-E32?logo=cocoapods&logoColor=fff&style=for-the-badge)
 ![FFmpeg Badge](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=fff&style=for-the-badge)
+![OpenVPN Badge](https://img.shields.io/badge/OpenVPN-EA7E20?logo=openvpn&logoColor=fff&style=for-the-badge)
 ![ChatGPT_Badge](https://img.shields.io/badge/Chat_GPT-412991?logo=openai&logoColor=fff&style=for-the-badge)
 ![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge)
 ![ADOBE_AUDITION](https://img.shields.io/badge/Adobe_Audition-99F.svg?style=for-the-badge&logo=adobeaudition&logoColor=white)
