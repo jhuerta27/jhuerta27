@@ -55,7 +55,7 @@ Hello, I'm Jordi, a dedicated mobile/TV developer with a focus on Android and iO
 ![ChatGPT_Badge](https://img.shields.io/badge/Chat_GPT-412991?logo=openai&logoColor=fff&style=for-the-badge)
 ![GitHub Copilot Badge](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge)
 ![ADOBE_AUDITION](https://img.shields.io/badge/Adobe_Audition-99F.svg?style=for-the-badge&logo=adobeaudition&logoColor=white)
-![ADOBE ILLUSTRATOR](https://img.shields.io/badge/Adobe_llustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+![ADOBE ILLUSTRATOR](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
 ![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
