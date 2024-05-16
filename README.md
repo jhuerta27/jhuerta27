@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi there! 👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/C4D16AQFzf_ClC_PNew/profile-displaybackgroundimage-shrink_350_1400/0/1623751473734?e=1714003200&v=beta&t=-n4Hbu78G_pFtMCB3OWqyM6A6WYQBu-c89ED80l3Llk">
+<img src="https://media.licdn.com/dms/image/C4D16AQFzf_ClC_PNew/profile-displaybackgroundimage-shrink_350_1400/0/1623751473734?e=1721260800&v=beta&t=cql3fq4YgkPGqWKzfMx2ZeNCSq4USCzrjTn1bNCfj80">
 
 ### 😊 &nbsp;About me
 
