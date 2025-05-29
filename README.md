@@ -5,9 +5,7 @@
 
 ### 😊 &nbsp;About me
 
-Hello, I'm Jordi, a dedicated mobile/TV developer with a focus on Android and iOS platforms. I bring extensive experience not only in crafting user-friendly applications using Java and Kotlin for Android and Swift for iOS but also in contributing to the Android Open Source Project (AOSP) repository. My passion lies in seamlessly blending functionality with a sleek design. Let's collaborate to elevate your mobile projects and create exceptional user experiences!
-
-Hello, I'm Jordi, a dedicated mobile/TV developer specializing in Android and iOS platforms. I have extensive experience in creating user-friendly applications using Java and Kotlin for Android, as well as Swift for iOS. Additionally, I have a strong understanding of modifying, building, and flashing Android Open Source Project (AOSP). My passion lies in seamlessly integrating functionality with elegant design. I would love the opportunity to collaborate and help bring your mobile projects to the next level, creating exceptional user experiences!
+Hello, I'm Jordi, a dedicated mobile/TV developer with a focus on Android and iOS platforms. I bring extensive experience not only in crafting user-friendly applications using Kotlin for Android and Swift for iOS but also in contributing to the Android Open Source Project (AOSP) repository. My passion lies in seamlessly blending functionality with a sleek design. Let's collaborate to elevate your mobile projects and create exceptional user experiences!
 
 - Kotlin + Jetpack Compose for Android Development (Mobile & TV).
 - Swift + SwiftUI for iOS Development.
