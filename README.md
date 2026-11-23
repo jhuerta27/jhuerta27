@@ -67,22 +67,15 @@ Hello, I'm Jordi, a dedicated mobile/TV developer with a focus on Android and iO
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 ![Canva Badge](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=fff&style=for-the-badge)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/jhuerta27">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jhuerta27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
 <div align="center">
-  <h3><b>Let's get in touch! </b></h3>
-  </div>
+  <h3><b>Let's get in touch!</b></h3>
+</div>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/jordi-huerta-casanova-361a1714b/" target="_blank">
-  <img align="center" alt="Jordi Huerta | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:jorgehc1027@hotmail.com" >
-  <img align="center" alt="Jordi Huerta | Hotmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<p>
+  <a href="https://www.linkedin.com/in/jordi-huerta-casanova-361a1714b/" target="_blank">
+    <img align="center" alt="Jordi Huerta | Linkedin" width="24px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:jorgehc1027@hotmail.com">
+    <img align="center" alt="Jordi Huerta | Hotmail" width="26px" src="https://raw.githubusercontent.com/SatYu26/SatYu26/master/Assets/Gmail.svg" />
+  </a>
+</p>
